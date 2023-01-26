@@ -1,34 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Lead Of Token - Crypto Agency Site
+This is a [Next.js](https://nextjs.org/) project
 
-## Getting Started
+## **Website preview**
+>Home Page
+![Ekran görüntüsü 2023-01-26 113057](https://user-images.githubusercontent.com/61958118/214792972-6a48c7e8-7543-4a01-b378-ef076b568011.png)
 
-First, run the development server:
+>About Us
+![Ekran görüntüsü 2023-01-26 113434](https://user-images.githubusercontent.com/61958118/214793014-e285a66e-61c6-40c2-be28-af4db77bae51.png)
+![Ekran görüntüsü 2023-01-26 114302](https://user-images.githubusercontent.com/61958118/214793038-5970cf9b-26e2-45f7-9aeb-2964d33579b8.png)
 
-```bash
-npm run dev
-# or
-yarn dev
+>Services
+![Ekran görüntüsü 2023-01-26 113504](https://user-images.githubusercontent.com/61958118/214793081-979c4640-2bc5-4db5-ae06-f1206bc8bc18.png)
+![Ekran görüntüsü 2023-01-26 114318](https://user-images.githubusercontent.com/61958118/214793089-3e3fc321-6997-4200-8ed2-d5dab1c19bac.png)
+
+>Partners
+![Ekran görüntüsü 2023-01-26 114202](https://user-images.githubusercontent.com/61958118/214793121-8b158507-c12e-4a50-a20e-8ed82b280011.png)
+![Ekran görüntüsü 2023-01-26 114348](https://user-images.githubusercontent.com/61958118/214793134-6ed2db18-5188-4043-9c34-0eb1bdbab2d6.png)
+![Ekran görüntüsü 2023-01-26 114406](https://user-images.githubusercontent.com/61958118/214793184-2b057b24-3b4b-48b9-a706-eb14ffb6278a.png)
+
+>Contact
+![Ekran görüntüsü 2023-01-26 114219](https://user-images.githubusercontent.com/61958118/214793174-8fc6ed0a-c93c-41c4-9897-c8e729d85990.png)
+
+
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Live Preview Code : https://agency.leadoftoken.com
+```
