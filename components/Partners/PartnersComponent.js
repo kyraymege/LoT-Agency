@@ -7,9 +7,25 @@ import { getPartners } from '../api/api'
 
 const PartnersComponent = () => {
     useEffect(() => {
-        getPartners().then((res) => {
-            setPartners(res?.data);
-        });
+        const partners = [{
+            "partner_img": "https://yt3.googleusercontent.com/ytc/AL5GRJVkGKqN30pHPlAani_7Hi_8_Bsu96wUXmSUKh1-YQ=s88-c-k-c0x00ffffff-no-rj",
+            "partner_name": "Enes Batur",
+            "partner_youtube_link": "https://www.youtube.com/@newdaynewgame",
+            "partner_youtube_subs": "15.9M+",
+          },
+          {
+            "partner_img": "https://yt3.googleusercontent.com/lBUaJdeOfgGKnMI5Z1Ssuqcoh9-u_E0zv-fFVkPhHQVHakd4ZKnFs-H0KhtxXtPOKg8nC1sTRg=s88-c-k-c0x00ffffff-no-rj",
+            "partner_name": "Orkun Işıtmak",
+            "partner_youtube_link": "https://www.youtube.com/@orkunisitmak",
+            "partner_youtube_subs": "10.2M+",
+          },
+          {
+            "partner_img": "https://yt3.googleusercontent.com/ytc/AL5GRJUKMBO-mYmGKsjm2Gzn8kDgUxFqRyHpiKt9NqAqSSo=s88-c-k-c0x00ffffff-no-rj",
+            "partner_name": "Barış Özcan",
+            "partner_youtube_link": "https://www.youtube.com/@BarisOzcan",
+            "partner_youtube_subs": "6.19M+",
+          }]
+          setPartners(partners)
     }, [])
     const [partners, setPartners] = useState([])
     const [active, setActive] = useState(0)

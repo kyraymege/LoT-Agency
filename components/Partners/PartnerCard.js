@@ -25,7 +25,7 @@ const PartnerCard = ({ partner }) => {
 
                                     <Link href={partner?.partner_youtube_link} passHref>
                                         <a target="_blank" rel="noopener noreferrer" className='link-item'>
-                                            <p className='font-extrabold text-white text-lg'>{partner?.partner_youtube_subs}K+</p>
+                                            <p className='font-extrabold text-white text-lg'>{partner?.partner_youtube_subs}</p>
                                         </a>
                                     </Link>
                                 </>
@@ -39,7 +39,7 @@ const PartnerCard = ({ partner }) => {
                                     </Link>
                                     <Link href={partner?.partner_twitter_link} passHref>
                                         <a target="_blank" rel="noopener noreferrer" className='link-item'>
-                                            <p className='font-extrabold text-white text-lg'>{partner?.partner_youtube_subs}K+</p>
+                                            <p className='font-extrabold text-white text-lg'>{partner?.partner_youtube_subs}</p>
                                         </a>
                                     </Link>
                                 </>
@@ -53,7 +53,7 @@ const PartnerCard = ({ partner }) => {
                                     </Link>
                                     <Link href={partner?.partner_twitter_link} passHref>
                                         <a target="_blank" rel="noopener noreferrer" className='link-item'>
-                                            <p className='font-extrabold text-white text-lg'>{partner?.partner_youtube_subs}K+</p>
+                                            <p className='font-extrabold text-white text-lg'>{partner?.partner_youtube_subs}</p>
                                         </a>
                                     </Link>
                                 </>
@@ -67,7 +67,7 @@ const PartnerCard = ({ partner }) => {
                                     </Link>
                                     <Link href={partner?.partner_twitter_link} passHref>
                                         <a target="_blank" rel="noopener noreferrer" className='link-item'>
-                                            <p className='font-extrabold text-white text-lg'>{partner?.partner_youtube_subs}K+</p>
+                                            <p className='font-extrabold text-white text-lg'>{partner?.partner_youtube_subs}</p>
                                         </a>
                                     </Link>
                                 </>
